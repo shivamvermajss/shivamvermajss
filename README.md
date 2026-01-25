@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Shivam Verma  
 
-<!--
-**shivamvermajss/shivamvermajss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Final Year Student  
+💻 Full Stack Developer | MERN Stack  
+📊 Data Analysis Enthusiast  
+🚀 Passionate about Web Development & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me:
+
+- 📧 Email: shivamvermacse2026@gmail.com  
+- 💼 GitHub: https://github.com/shivamvermajss  
+
+---
+
+## 🛠 Tech Stack:
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+
+---
+
+## 📌 Projects:
+
+- 🔹 Wonder-Lust – Full Stack Booking Platform  
+- 🔹 Smart-Meet – Meeting Platform  
+- 🔹 Spotify Clone (HTML/CSS)  
+- 🔹 DSA Practice in Java  
+
+---
+
+## 📈 GitHub Stats:
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvermajss&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvermajss&layout=compact&theme=tokyonight)
