@@ -11,6 +11,7 @@
 
 - 📧 Email: shivamvermacse2026@gmail.com  
 - 💼 GitHub: https://github.com/shivamvermajss  
+- 📸 Instagram: https://www.instagram.com/__i_am_shivam___/?hl=en  
 
 ---
 
@@ -23,6 +24,7 @@
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-blueviolet?style=for-the-badge)
 
 ---
 
