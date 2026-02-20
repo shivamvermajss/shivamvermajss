@@ -2,19 +2,20 @@
 
 🎓 B.Tech CSE Final Year Student  
 💻 Full Stack Developer (MERN Stack)  
+🤖 AI & Computer Vision Enthusiast  
 🚀 Building Scalable Web Applications  
-📊 Exploring Data Analysis & System Design  
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Full Stack Developer focused on building real-world scalable applications using the MERN stack.  
+I am a passionate Full Stack Developer focused on building real-world scalable applications using the MERN stack and AI technologies.  
 
-I enjoy solving problems, designing clean UI/UX, and deploying production-ready applications.  
+I enjoy solving complex problems, designing clean UI/UX, and deploying production-ready applications.  
 
 Currently working on:
 - 🔥 AI-powered SaaS applications  
+- 🤖 Computer Vision & Deep Learning projects  
 - 💳 Credit-based systems & payment integrations  
 - 🌐 Full-stack deployments (Vercel + Render + MongoDB Atlas)  
 
@@ -35,6 +36,12 @@ Currently working on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
+### 🤖 AI / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### 📊 Other Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,6 +54,13 @@ Currently working on:
 ### 🚀 Imagify – AI Image Generation SaaS  
 Full-stack AI-powered platform with authentication, credit-based usage, and payment integration.  
 🔗 https://github.com/shivamvermajss/imagify_1  
+
+---
+
+### 🌾 CropVision-X – AI Crop Disease Detection System  
+AI-powered computer vision project for detecting crop diseases using deep learning models.  
+Built with Python, TensorFlow, and OpenCV for real-time prediction and classification.  
+🔗 Project Link: (Add GitHub repo link here once uploaded)
 
 ---
 
@@ -65,13 +79,7 @@ Responsive music UI built using HTML & CSS.
 
 ---
 
-## 📈 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvermajss&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvermajss&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
@@ -82,4 +90,4 @@ Responsive music UI built using HTML & CSS.
 
 ---
 
-⭐ *Always open to collaboration, internships, and full-time opportunities.*
+⭐ *Open to internships, collaborations, and full-time opportunities.*
