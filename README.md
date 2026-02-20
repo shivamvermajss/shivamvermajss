@@ -53,7 +53,7 @@ Currently working on:
 
 ### 🚀 Imagify – AI Image Generation SaaS  
 Full-stack AI-powered platform with authentication, credit-based usage, and payment integration.  
-🔗 https://github.com/shivamvermajss/imagify_1  
+🔗 https://imagify-coral.vercel.app/  
 
 ---
 
@@ -65,7 +65,8 @@ Built with Python, TensorFlow, and OpenCV for real-time prediction and classific
 ---
 
 ### 🏨 Wonder-Lust – Booking Platform  
-Full Stack property booking application built using MERN stack.  
+Full Stack property booking application built using MERN stack. 
+🔗 https://wonder-lust-1-9033.onrender.com
 
 ---
 
