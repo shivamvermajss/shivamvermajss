@@ -64,6 +64,17 @@ I focus on writing clean, optimized code, designing intuitive UI/UX, and solving
 
 ---
 
+### 💬 QuickChat – Real-Time Chat Application  
+🔗 https://quick-chat-a-real-time-chat-app.vercel.app/  
+
+- Real-time chat app using Socket.io  
+- Instant messaging with live updates  
+- User authentication & session handling  
+- Built with MERN stack + WebSockets  
+- Optimized for fast and seamless communication  
+
+---
+
 ### 🌾 CropVision-X – AI Crop Disease Detection  
 🔗 (Add GitHub Link)  
 
